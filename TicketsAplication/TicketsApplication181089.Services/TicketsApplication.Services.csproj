@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+    <PackageReference Include="MailKit" Version="2.13.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TicketsApplication181089.Domain\TicketsApplication.Domain.csproj" />
+    <ProjectReference Include="..\TicketsApplication181089.Repository\TicketsApplication.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
