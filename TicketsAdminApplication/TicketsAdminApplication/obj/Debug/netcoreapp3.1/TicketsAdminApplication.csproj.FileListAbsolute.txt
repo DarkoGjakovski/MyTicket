@@ -1,0 +1,112 @@
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.exe
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.deps.json
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.runtimeconfig.json
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.runtimeconfig.dev.json
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.pdb
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.Views.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.Views.pdb
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.csprojAssemblyReference.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.AssemblyInfoInputs.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.AssemblyInfo.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorAssemblyInfo.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorAssemblyInfo.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\TicketsAdminApplication.StaticWebAssets.Manifest.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\TicketsAdminApplication.StaticWebAssets.xml
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\TicketsAdminApplication.styles.css
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.TagHelpers.input.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.TagHelpers.output.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorCoreGenerate.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorTargetAssemblyInfo.cache
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorTargetAssemblyInfo.cs
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.Views.pdb
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.csproj.CopyComplete
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.dll
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.pdb
+C:\Users\stoja\Downloads\Tijana Stojanovska 181089 DomasnoIS (1)\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.genruntimeconfig.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.exe
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.deps.json
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.runtimeconfig.json
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.runtimeconfig.dev.json
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.pdb
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.Views.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\TicketsAdminApplication.Views.pdb
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\ClosedXML.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\ExcelNumberFormat.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\GemBox.Document.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\GemBox.Document.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.csprojAssemblyReference.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.AssemblyInfoInputs.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.AssemblyInfo.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.csproj.CoreCompileInputs.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorAssemblyInfo.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorAssemblyInfo.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\TicketsAdminApplication.StaticWebAssets.Manifest.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\staticwebassets\TicketsAdminApplication.StaticWebAssets.xml
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\TicketsAdminApplication.styles.css
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.TagHelpers.input.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.TagHelpers.output.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorCoreGenerate.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\User\Index.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorTargetAssemblyInfo.cache
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.RazorTargetAssemblyInfo.cs
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.Views.pdb
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.csproj.CopyComplete
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.dll
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.pdb
+C:\Users\stoja\OneDrive\Desktop\Tijana Stojanovska 181089 DomasnoIS\TicketsAdminApplication\TicketsAdminApplication\obj\Debug\netcoreapp3.1\TicketsAdminApplication.genruntimeconfig.cache
