@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stoja\\OneDrive\\Desktop\\Tijana Stojanovska 181089 DomasnoIS\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj": {}
+    "C:\\Users\\stoja\\OneDrive\\Documents\\GitHub\\MyTicket\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stoja\\OneDrive\\Desktop\\Tijana Stojanovska 181089 DomasnoIS\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj": {
+    "C:\\Users\\stoja\\OneDrive\\Documents\\GitHub\\MyTicket\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stoja\\OneDrive\\Desktop\\Tijana Stojanovska 181089 DomasnoIS\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj",
+        "projectUniqueName": "C:\\Users\\stoja\\OneDrive\\Documents\\GitHub\\MyTicket\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj",
         "projectName": "TicketsAdminApplication",
-        "projectPath": "C:\\Users\\stoja\\OneDrive\\Desktop\\Tijana Stojanovska 181089 DomasnoIS\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj",
+        "projectPath": "C:\\Users\\stoja\\OneDrive\\Documents\\GitHub\\MyTicket\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj",
         "packagesPath": "C:\\Users\\stoja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stoja\\OneDrive\\Desktop\\Tijana Stojanovska 181089 DomasnoIS\\TicketsAdminApplication\\TicketsAdminApplication\\obj\\",
+        "outputPath": "C:\\Users\\stoja\\OneDrive\\Documents\\GitHub\\MyTicket\\TicketsAdminApplication\\TicketsAdminApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\stoja\\AppData\\Roaming\\NuGet\\NuGet.Config",

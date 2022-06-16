@@ -1,0 +1,17 @@
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Services.deps.json
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Services.runtimeconfig.json
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Services.runtimeconfig.dev.json
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Services.dll
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Services.pdb
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Domain.dll
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Repository.dll
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Domain.pdb
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\bin\Debug\netcoreapp3.1\TicketsApplication.Repository.pdb
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.csprojAssemblyReference.cache
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.AssemblyInfoInputs.cache
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.AssemblyInfo.cs
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.csproj.CoreCompileInputs.cache
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.csproj.CopyComplete
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.dll
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.pdb
+C:\Users\stoja\OneDrive\Documents\GitHub\MyTicket\TicketsAplication\TicketsApplication181089.Services\obj\Debug\netcoreapp3.1\TicketsApplication.Services.genruntimeconfig.cache

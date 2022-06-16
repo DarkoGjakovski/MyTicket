@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7gF9c053LMcUEqRfKTwY3SUP+xWQk/MiCCDbn7URcyZ9zMBh/1wgL9Kxtsf7LrPbHAYRzgYzFsQnOb/9Lql9Mw==",
+  "dgSpecHash": "1o+Y2h3FCK5j6EHd8dWDRjkqA+brVmLQDaDwshT+DwWf6Gkc9nYVM5T9xWswzMvpbGA1ZljcfXPDVX/klnK3eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stoja\\OneDrive\\Desktop\\Tijana Stojanovska 181089 DomasnoIS\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj",
+  "projectFilePath": "C:\\Users\\stoja\\OneDrive\\Documents\\GitHub\\MyTicket\\TicketsAdminApplication\\TicketsAdminApplication\\TicketsAdminApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stoja\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
     "C:\\Users\\stoja\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",
